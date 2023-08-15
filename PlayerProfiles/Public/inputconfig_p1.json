@@ -1,0 +1,4 @@
+{
+   "CameraRotateLeft" : [ "c:rightstick_xpos", "key:e", "key:delete" ],
+   "CameraRotateRight" : [ "c:rightstick_xneg", "key:q", "key:end" ]
+}
